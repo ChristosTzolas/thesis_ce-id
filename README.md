@@ -1,2 +1,2 @@
-# thesis_ce-id
+# thesis_ceid
 My Thesis
